@@ -1,7 +1,7 @@
 # cse210-student-template
 This is the starter code for students in CSE 210.
 
-this is the first commit that i am trying to push to my github.
+This is the second commit i am trying to push my repository.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
